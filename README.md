@@ -1,0 +1,2 @@
+# openvscode-AutoUpdate
+openvscode autoupdate
